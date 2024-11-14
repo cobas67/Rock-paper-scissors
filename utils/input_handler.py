@@ -8,3 +8,4 @@ def get_user_choice(prompt="가위, 바위, 보 중 하나를 선택하세요: "
         if user_input == "종료":
             return None
         print("잘못된 입력입니다. 다시 시도해주세요.")
+
