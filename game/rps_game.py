@@ -1,6 +1,5 @@
 # game/rps_game.py
 
-
 import random
 from utils.input_handler import get_user_choice
 
